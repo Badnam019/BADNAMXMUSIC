@@ -7,7 +7,7 @@ import httpx
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 start_txt = """
-❥ ωєℓ¢σмє тσ тєαм 𝐊ᴜsʜɪ 𝐌ᴜsɪᴄ 
+❥ ωєℓ¢σмє тσ тєαм ❍𝐒ʏsᴛᴇᴍ 𝐌ᴜsɪᴄ❍
 
 ❥ ʀᴇᴘᴏ ᴄʜᴀᴀʜɪʏʀ ᴛᴏ ʙᴏᴛ ᴋᴏ 
 
@@ -26,17 +26,17 @@ start_txt = """
 async def start(_, msg):
     buttons = [
         [ 
-          InlineKeyboardButton("💠 𝖠ᴅᴅ ᴍᴇ 𝖡ᴀʙʏ 💠", url=f"https://t.me/Kushi_music_bot?startgroup=true")
+          InlineKeyboardButton("💠 𝖠ᴅᴅ ᴍᴇ 𝖡ᴀʙʏ 💠", url=f"https://t.me/system_music_prorobot?startgroup=true")
         ],
         [
-          InlineKeyboardButton("✰ 𝛅ꭎᴘ፝֠֩ᴘσꝛᴛ ✰", url="https://t.me/TEAM_KRITI_SUPPORT"),
-          InlineKeyboardButton("𝐊ᴜsʜɪ _ 𝐌ᴜsɪᴄ ", url="https://t.me/TEAM_KRITI_SUPPORT"),
+          InlineKeyboardButton("❍𝐒ᴜᴘᴘᴏʀᴛ❍", url="@SYSTEM_BOT_UPDATE"),
+          InlineKeyboardButton("❍𝐒ʏsᴛᴇᴍ 𝐌ᴜsɪᴄ❍ ", url="@SYSTEM_BOT_UPDATE"),
           ],
                [
-                InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"https://t.me/TEAM_KRITI_SUPPORT"),
+                InlineKeyboardButton("ᴏᴛʜᴇʀ ʙᴏᴛs", url=f"@SYSTEM_BOT_UPDATE"),
 ],
 [
-InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/Kushi_music_bot"),
+InlineKeyboardButton("ᴄʜᴇᴄᴋ", url=f"https://t.me/system_music_prorobot"),
 
         ]]
     
