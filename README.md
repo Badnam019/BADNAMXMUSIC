@@ -39,7 +39,7 @@ GO TO [RELOAD.PY](https://github.com/TEAMPURVI/SONALI_MUSIC/blob/main/SONALI/plu
 
 <p><img width="500" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=TEAMP BA&show_icons=true&locale=en&layout=compact" alt="𝐓𝐄𝐀𝐌 𝐁𝐀𝐃𝐍𝐀𝐌 𝐗𝐃" /></p>
 
-[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/TEAMPURVI/SONALI_MUSIC/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=TEAMPURVI/SONALI_MUSIC)](https://github.com/Badnam019/BADNAMXMUSIC/graphs/contributors)
 
 ### Contact :
 <a href="https://t.me/ll_Badnam_xd"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
